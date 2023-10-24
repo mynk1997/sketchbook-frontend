@@ -8,6 +8,7 @@ import {
 } from "@fortawesome/free-solid-svg-icons";
 import styles from './index.module.css'
 
+
 const Menu = () => {
   return (
     <div className={styles.menuContainer}>
